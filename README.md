@@ -10,9 +10,10 @@
 
 ### Contact With me:
 
-[![LinkedIn Connect](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png)](https://www.linkedin.com/in/mxasraful/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://facebook.com/mxasrafulofficial/) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://mxasraful.medium.com/) 
+[![LinkedIn Connect](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-20.png)](https://www.linkedin.com/in/mxasraful/) 
+[![Facebook Follow](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-20.png)](https://facebook.com/mxasrafulofficial/) 
+[![Twitter Follow](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-twitter-20.png)](https://twitter.com/MxAsraful) 
+[![Medium Follow](https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/medium-20.png)](https://mxasraful.medium.com/) 
 
 
 
