@@ -36,11 +36,9 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxasraful)](https://github.com/mxasraful/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxasraful&show_icons=true&theme=dark)](https://github.com/mxasraful/github-readme-stats)
 
 <br />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxasraful&hide=contribs,prs)
 
 
 [twfollow]: https://twitter.com/intent/follow?screen_name=mxasraful
