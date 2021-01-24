@@ -11,4 +11,4 @@
 
 ### Contact With me:
 
-[<img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-256.png" url="https://www.linkedin.com/in/mxasraful/" />]
+[<img align="left" width="25px" src="https://img.shields.io/twitter/follow/mxasraful?label=Follow&style=social" />]
