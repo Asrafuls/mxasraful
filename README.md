@@ -30,7 +30,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-256.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/452/bootstrap.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
