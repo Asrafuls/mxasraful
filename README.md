@@ -11,4 +11,4 @@
 
 ### Contact With me:
 
-[<img align="left" width="25px" src="https://img.shields.io/twitter/follow/mxasraful?label=Follow&style=social" />]
+[<img align="left" src="https://img.shields.io/twitter/follow/mxasraful?label=Follow&style=social" />]
