@@ -6,12 +6,11 @@
 
 ### My Portfolio Website https://mxasraful.netlify.app/
 
-# Thanks for vesiting my Gthub profile.
 <br/>
 
 ### Contact With me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mxasraful/) 
+[![LinkedIn Connect](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png)](https://www.linkedin.com/in/mxasraful/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://facebook.com/mxasrafulofficial/) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://mxasraful.medium.com/) 
 
